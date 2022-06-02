@@ -1,6 +1,6 @@
 exports.infobot = (prefix) => {
 return`• ----------[ *INFO BOT* ]----------
-• *NAMA BOT :* Ramdani Botz
+• *NAMA BOT :* ArullBotz
 • *NOMOR BOT :* 6288296339947
 • *NAMA OWNER :* Ramdani Official
 • *NOMOR OWNER :* 6289512545999
